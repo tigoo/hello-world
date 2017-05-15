@@ -1,2 +1,5 @@
 # hello-world
-web tutorials project
+
+hi!
+
+Excited to be sharpening my skills
